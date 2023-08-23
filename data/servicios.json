@@ -4,14 +4,14 @@
   "description": "Danza y enseñanza para todos los amantes del folclore mexicano",
   "images": [
     {
-      "src": "https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol.jpg",
-      "srcSet": "https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol-480.jpg 480w, https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol-768.jpg 768w, https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol.jpg 4032w",
-      "alt": "El grupo México Baila en la marquesina del Poble Espanyol de Barcelona con traje de Jalisco"
+        "src": "https://mexico-baila-data.vercel.app/assets/servicios/01-servicios-mexico-baila-poble-espanyol.jpg",
+        "srcSet": "https://mexico-baila-data.vercel.app/assets/servicios/01-servicios-mexico-baila-poble-espanyol-480.jpg 480w, https://mexico-baila-data.vercel.app/assets/servicios/01-servicios-mexico-baila-poble-espanyol-768.jpg 768w, https://mexico-baila-data.vercel.app/assets/servicios/01-servicios-mexico-baila-poble-espanyol.jpg 4032w",
+        "alt": "El grupo México Baila en la marquesina del Poble Espanyol de Barcelona con traje de Jalisco"
     },
     {
-      "src": "https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol.jpg",
-      "srcSet": "https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol-480.jpg 480w, https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol-768.jpg 768w, https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol.jpg 4032w",
-      "alt": "El grupo México Baila en la marquesina del Poble Espanyol de Barcelona con traje de Veracruz"
+        "src": "https://mexico-baila-data.vercel.app/assets/servicios/02-servicios-mexico-baila-poble-espanyol.jpg",
+        "srcSet": "https://mexico-baila-data.vercel.app/assets/servicios/02-servicios-mexico-baila-poble-espanyol-480.jpg 480w, https://mexico-baila-data.vercel.app/assets/servicios/02-servicios-mexico-baila-poble-espanyol-768.jpg 768w, https://mexico-baila-data.vercel.app/assets/servicios/02-servicios-mexico-baila-poble-espanyol.jpg 4032w",
+        "alt": "El grupo México Baila en la marquesina del Poble Espanyol de Barcelona con traje de Veracruz"
     }
   ],
   "content": {
@@ -23,8 +23,8 @@
     {
       "title": "El centro del país: los Concheros",
       "img": {
-        "src": "https://mexicobailadata.now.sh/static/servicios/01-repertorio-mexico-baila-concheros.jpg",
-        "alt": "Repertorio México Baila Los Concheros"
+          "src": "https://mexico-baila-data.vercel.app/assets/servicios/01-repertorio-mexico-baila-concheros.jpg",
+          "alt": "Repertorio México Baila Los Concheros"
       },
       "content": [
         {
@@ -45,8 +45,8 @@
     {
       "title": "¡Jalisco no te rajes!",
       "img": {
-        "src": "https://mexicobailadata.now.sh/static/servicios/02-repertorio-mexico-baila-jalisco.jpg",
-        "alt": "Repertorio México Baila Jalisco"
+          "src": "https://mexico-baila-data.vercel.app/assets/servicios/02-repertorio-mexico-baila-jalisco.jpg",
+          "alt": "Repertorio México Baila Jalisco"
       },
       "content": [
         {
@@ -67,8 +67,8 @@
     {
       "title": "Veracruz: mar azul y tierra verde",
       "img": {
-        "src": "https://mexicobailadata.now.sh/static/servicios/03-repertorio-mexico-baila-veracruz.jpg",
-        "alt": "Repertorio México Baila Veracruz"
+          "src": "https://mexico-baila-data.vercel.app/assets/servicios/03-repertorio-mexico-baila-veracruz.jpg",
+          "alt": "Repertorio México Baila Veracruz"
       },
       "content": [
         {
@@ -85,8 +85,8 @@
     {
       "title": "¡Y nos vamos pa'l meritito norte",
       "img": {
-        "src": "https://mexicobailadata.now.sh/static/servicios/04-repertorio-mexico-baila-norte.jpg",
-        "alt": "Repertorio México Baila Norte"
+          "src": "https://mexico-baila-data.vercel.app/assets/servicios/04-repertorio-mexico-baila-norte.jpg",
+          "alt": "Repertorio México Baila Norte"
       },
       "content": [
         {
@@ -103,8 +103,8 @@
     {
       "title": "'El Jarabe Tapatio', un himno que nos une a todos",
       "img": {
-        "src": "https://mexicobailadata.now.sh/static/servicios/05-repertorio-mexico-baila-jarabe-tapatio.jpg",
-        "alt": "Repertorio México Baila Jarabe Tapatio"
+          "src": "https://mexico-baila-data.vercel.app/assets/servicios/05-repertorio-mexico-baila-jarabe-tapatio.jpg",
+          "alt": "Repertorio México Baila Jarabe Tapatio"
       },
       "content": [
         {
