@@ -1,0 +1,15 @@
+{
+    "title": "Archivo histórico canal vídeos de Yotube",
+    "images": [
+        {
+            "src": "https://mexico-baila-data.vercel.app/assets/videos/01-home-mexico-baila-ajuntament-sant-joan-de-les-abadesses.jpg",
+            "alt": "México Baila mix de trajes regionales, en el Ajuntament de Sant Joan de les Abadesses",
+            "srcSet": "https://mexico-baila-data.vercel.app/assets/videos/01-home-mexico-baila-ajuntament-sant-joan-de-les-abadesses-480.jpg 480w, https://mexico-baila-data.vercel.app/assets/videos/01-home-mexico-baila-ajuntament-sant-joan-de-les-abadesses-768.jpg 768w, https://mexico-baila-data.vercel.app/assets/videos/01-home-mexico-baila-ajuntament-sant-joan-de-les-abadesses.jpg 2697w"
+        }
+    ],
+    "section": {
+        "first": "Los más recientes",
+        "second": "Selección de vídeos"
+    },
+    "id": "001"
+}
