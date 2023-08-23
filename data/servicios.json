@@ -1,0 +1,119 @@
+{
+  "title": "México Baila",
+  "subtitle": "El piojo y la pulga se van a casar, si no se han casado es por falta de pan...",
+  "description": "Danza y enseñanza para todos los amantes del folclore mexicano",
+  "images": [
+    {
+      "src": "https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol.jpg",
+      "srcSet": "https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol-480.jpg 480w, https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol-768.jpg 768w, https://mexicobailadata.now.sh/static/servicios/01-servicios-mexico-baila-poble-espanyol.jpg 4032w",
+      "alt": "El grupo México Baila en la marquesina del Poble Espanyol de Barcelona con traje de Jalisco"
+    },
+    {
+      "src": "https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol.jpg",
+      "srcSet": "https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol-480.jpg 480w, https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol-768.jpg 768w, https://mexicobailadata.now.sh/static/servicios/02-servicios-mexico-baila-poble-espanyol.jpg 4032w",
+      "alt": "El grupo México Baila en la marquesina del Poble Espanyol de Barcelona con traje de Veracruz"
+    }
+  ],
+  "content": {
+    "firstLead": "Somos un Grupo de bailarines con un espectáculo que trata de transportar a la gente a ese lindo país llamado México, a traves de la música y la danza, pero también creemos en la danza y el folclore como punto de encuentro para todos aquellos que buscamos compartir nuestro amor por el folclore mexicano.",
+    "title": "Un recorrido por toda la geografia de México. Nuestro repertorio",
+    "secondLead": "Con la danza enriquecida por majestuosos vestidos llenos de colorido recorremos el México lleno de sol, de alegría de gusto por la vida y respeto por la muerte, un México aventurero, joven lleno de contrastes que nos invita a conocerlo."
+  },
+  "cards": [
+    {
+      "title": "El centro del país: los Concheros",
+      "img": {
+        "src": "https://mexicobailadata.now.sh/static/servicios/01-repertorio-mexico-baila-concheros.jpg",
+        "alt": "Repertorio México Baila Los Concheros"
+      },
+      "content": [
+        {
+          "id": "001",
+          "text": "Empezamos en el centro del país, con los Concheros, también llamada Danza Azteca, de la Conquista, Chichimeca o Danza Tolteca; es la manifestación real y palpable de la supervivencia de  tradición indígena náhuatl. En esta danza es importante la formación del círculo, el saludo de la comunidad a los cuatro vientos, a las seis direcciones del universo, esto permite al conchero integrarse al ritmo de la vida del planeta y del cosmos. El centro del círculo de danza es considerado un lugar sagrado y es ahí donde se coloca al sahumador, la braza sagrada con sus aromáticas esencias y las ofrendas que se portan. Esta danza tiene un carácter eminentemente religioso, resultante de la simbiosis entre la religión indígena y la crstiana."
+        },
+        {
+          "id": "002",
+          "text": "En esta danza el cuerpo se une al universo: con los pies se hace un llamado a la madre tierra, se le saluda, con los brazos se realiza una conexión con el cosmos y así cada movimiento se tiene la idea de sanar, armonizar, crear salud y abundancia. Finalmente, al levantar los brazos se señala un desprendimiento del espíritu hacia Dios."
+        },
+        {
+          "id": "003",
+          "text": "La danza de concheros representa la Guerra Florida, o sea la lucha espiritual del hombre por superarse en todos los aspectos."
+        }
+      ],
+      "id": "001"
+    },
+    {
+      "title": "¡Jalisco no te rajes!",
+      "img": {
+        "src": "https://mexicobailadata.now.sh/static/servicios/02-repertorio-mexico-baila-jalisco.jpg",
+        "alt": "Repertorio México Baila Jalisco"
+      },
+      "content": [
+        {
+          "id": "001",
+          "text": "Jalisco es conocido por sus sones y jarabes; los sones son melodías populares espontáneas, cantables y bailables, que se origínan en la fusión de la música española con la indígena. Su armonía rítmica, ruidosa y a contratiempo, expresa con vigor indiscutible las características de nuestra raza."
+        },
+        {
+          "id": "002",
+          "text": "Literalmente, los sones encierran a veces, un pensamiento amoroso lleno de melancolía donde se entremezcla con la ironía y lo jocoso, cuajado de ingenio. Se baila en diversas regiones del país, como Michoacán en donde tambien existen sones muy famosos; pero indudablemente es Jalisco y su Guadalajara, la que los ha hecho más famosos."
+        },
+        {
+          "id": "003",
+          "text": "Por su belleza melódica y coreografía, se han escogido para presentarlos como bailables fuertes, los siguientes sones: El Son de la Madrugada, El Son de las Alazanas, El Son de la Negra, El Gusto."
+        }
+      ],
+      "id": "002"
+    },
+    {
+      "title": "Veracruz: mar azul y tierra verde",
+      "img": {
+        "src": "https://mexicobailadata.now.sh/static/servicios/03-repertorio-mexico-baila-veracruz.jpg",
+        "alt": "Repertorio México Baila Veracruz"
+      },
+      "content": [
+        {
+          "id": "001",
+          "text": "Seguimos por Veracruz; aqui se combinan el mar azul y la tierra verde, con un clima tropical dando como resultado los sones jarochos, el son veracruzano, combina partes puramente intrumentales que se zapatean vigorosamente con taconeos que reflejan sus antecedentes españoles, con partes cantadas acompañadas discretamente por instrumentos, el son es probablemente el género musical más rico en México, el más representativo de la cultura popular, interpretado primordialmente con instrumentos de cuerda y percusión."
+        },
+        {
+          "id": "002",
+          "text": "Como muestra tenemos la Bruja: Melodía señorial que se baila con una vela en la cabeza y mostrando el traje típico inmaculadamente blanco; el Colas, el son del tilingo lingo y la mundialmente conocida Bamba."
+        }
+      ],
+      "id": "003"
+    },
+    {
+      "title": "¡Y nos vamos pa'l meritito norte",
+      "img": {
+        "src": "https://mexicobailadata.now.sh/static/servicios/04-repertorio-mexico-baila-norte.jpg",
+        "alt": "Repertorio México Baila Norte"
+      },
+      "content": [
+        {
+          "id": "001",
+          "text": "El norte del país se distingue por su música fuerte y alegre, “las norteñas”, bailadas de cachetito o como se suele decir de “carton de cerveza”, muy juntitos y arrepegados, las canciones narran frecuentemente historias de personajes que han cruzado la frontera o de rancheros muy peculiares."
+        },
+        {
+          "id": "002",
+          "text": "Aqui tenemos como muestra:  el Sinaloense, la Raspa, el corrido de Monterrey."
+        }
+      ],
+      "id": "004"
+    },
+    {
+      "title": "'El Jarabe Tapatio', un himno que nos une a todos",
+      "img": {
+        "src": "https://mexicobailadata.now.sh/static/servicios/05-repertorio-mexico-baila-jarabe-tapatio.jpg",
+        "alt": "Repertorio México Baila Jarabe Tapatio"
+      },
+      "content": [
+        {
+          "id": "001",
+          "text": "Y para terminar “El jarabe Tapatío” que aunque es un jarabe de Jalisco, representa para los mexicanos un himno que los une a todos esten en donde esten, es la unión de la fuerza con la sutilidad, y es esta unión lo que lo ha llevado a conocerse en el mundo entero. Se suele bailar con el vestido de China Poblana, ataviado de lentejuelas de colores como muestra de la elegancia de la mujer mexicana."
+        }
+      ],
+      "id": "005"
+    }
+  ],
+  "id": "001"
+}
